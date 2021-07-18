@@ -7,5 +7,7 @@
 6. [网易云音乐评论爬取](https://github.com/shunfeng1990/caiji/tree/main/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E8%AF%84%E8%AE%BA%E7%88%AC%E5%8F%96)
 7. [财联社涨停板](https://github.com/shunfeng1990/caiji/tree/main/%E8%B4%A2%E8%81%94%E7%A4%BE%E6%B6%A8%E5%81%9C%E6%9D%BF)
 8. [多线程爬取新发地价格](https://github.com/shunfeng1990/caiji/tree/main/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%88%AC%E5%8F%96%E6%96%B0%E5%8F%91%E5%9C%B0%E4%BB%B7%E6%A0%BC)
-9. 
+9. [使用协程异步下载小说](https://github.com/shunfeng1990/caiji/tree/main/%E4%BD%BF%E7%94%A8%E5%8D%8F%E7%A8%8B%E5%BC%82%E6%AD%A5%E4%B8%8B%E8%BD%BD%E5%B0%8F%E8%AF%B4)
+10. [抓取91看剧简单练手](https://github.com/shunfeng1990/caiji/tree/main/%E6%8A%93%E5%8F%9691%E7%9C%8B%E5%89%A7%E7%AE%80%E5%8D%95%E7%BB%83%E6%89%8B)
+11. 
 
