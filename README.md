@@ -9,5 +9,5 @@
 8. [多线程爬取新发地价格](https://github.com/shunfeng1990/caiji/tree/main/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%88%AC%E5%8F%96%E6%96%B0%E5%8F%91%E5%9C%B0%E4%BB%B7%E6%A0%BC)
 9. [使用协程异步下载小说](https://github.com/shunfeng1990/caiji/tree/main/%E4%BD%BF%E7%94%A8%E5%8D%8F%E7%A8%8B%E5%BC%82%E6%AD%A5%E4%B8%8B%E8%BD%BD%E5%B0%8F%E8%AF%B4)
 10. [抓取91看剧简单练手](https://github.com/shunfeng1990/caiji/tree/main/%E6%8A%93%E5%8F%9691%E7%9C%8B%E5%89%A7%E7%AE%80%E5%8D%95%E7%BB%83%E6%89%8B)
-11. 
+11. [selenium模拟登入12306](https://github.com/shunfeng1990/caiji/tree/main/selenium%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%85%A512306)
 
