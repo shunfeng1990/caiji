@@ -11,5 +11,5 @@
 10. [抓取91看剧简单练手](https://github.com/shunfeng1990/caiji/tree/main/%E6%8A%93%E5%8F%9691%E7%9C%8B%E5%89%A7%E7%AE%80%E5%8D%95%E7%BB%83%E6%89%8B)
 11. [selenium模拟登入12306](https://github.com/shunfeng1990/caiji/tree/main/selenium%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%85%A512306) - 使用的超级鹰验证码识别
 12. [Scrapy框架爬取Tencent](https://github.com/shunfeng1990/caiji/tree/main/Scrapy%E6%A1%86%E6%9E%B6%E7%88%AC%E5%8F%96Tencent) - 翻页爬取腾讯招聘信息，爬取的json
-13. 
+13. [Scrapy框架爬豆瓣top250](https://github.com/shunfeng1990/caiji/tree/main/Scrapy%E6%A1%86%E6%9E%B6%E7%88%AC%E8%B1%86%E7%93%A3top250) - 翻页爬取豆瓣top250，练习Xpath提取
 
