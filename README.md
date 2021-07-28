@@ -12,4 +12,5 @@
 11. [selenium模拟登入12306](https://github.com/shunfeng1990/caiji/tree/main/selenium%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%85%A512306) - 使用的超级鹰验证码识别
 12. [Scrapy框架爬取Tencent](https://github.com/shunfeng1990/caiji/tree/main/Scrapy%E6%A1%86%E6%9E%B6%E7%88%AC%E5%8F%96Tencent) - 翻页爬取腾讯招聘信息，爬取的json
 13. [Scrapy框架爬豆瓣top250](https://github.com/shunfeng1990/caiji/tree/main/Scrapy%E6%A1%86%E6%9E%B6%E7%88%AC%E8%B1%86%E7%93%A3top250) - 翻页爬取豆瓣top250，练习Xpath提取
+14. [Scrapy框架下载斗鱼图片并重命名](https://github.com/shunfeng1990/caiji/tree/main/Scrapy%E6%A1%86%E6%9E%B6%E4%B8%8B%E8%BD%BD%E6%96%97%E9%B1%BC%E5%9B%BE%E7%89%87%E5%B9%B6%E9%87%8D%E5%91%BD%E5%90%8D) - 爬取斗鱼APP主播图片并下载后重命名
 
